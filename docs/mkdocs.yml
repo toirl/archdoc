@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Archdoc
+nav:
+  - Introduction & Goals: index.md
+  - Constraints: architecture_constraints.md
+  - Context & Scope: context_scope.md
+  - Soluation Strategy: solution_strategy.md
+  - Building Block View: building_block_view.md
+  - Runtime View: runtime_view.md
+  - Deployment View: deployment_view.md
+  - Crosscutting Concepts: crosscutting_concepts.md
+  - Architecture Decisions: architecture_decisions.md
+  - Quality Requirements: quality_requirements.md
+  - Risks & Technical Dept: risks_techdebt.md
+  - Glossary: glossary.md

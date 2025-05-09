@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Introduction and Goals
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Requirements Overview
 
-## Commands
+## Quality Goals
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Stakeholders
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Role/Name        | Contact             | Expectations            |
+| ---------------- | ------------------- | ----------------------- |
+| _&lt;Role-1&gt;_ | _&lt;Contact-1&gt;_ | _&lt;Expectation-1&gt;_ |
+| _&lt;Role-2&gt;_ | _&lt;Contact-2&gt;_ | _&lt;Expectation-2&gt;_ |
