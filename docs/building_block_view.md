@@ -1,16 +1,18 @@
 # Building Block View
 
+The building block view shows the static decomposition of the system into building blocks (modules, components, subsystems, classes, interfaces, packages, libraries, frameworks, layers, partitions, tiers, functions, macros, operations, data structures, …) as well as their dependencies (relationships, associations, …)
+
 ## Whitebox Overall System
 
-**_&lt;Overview Diagram>_**
+![Building Block Level 1](generated/building_block_level1.png){#fig:building_block_level1}
 
-Motivation  
+**Motivation**  
 _&lt;text explanation>_
 
-Contained Building Blocks  
+**Contained Building Blocks**  
 _&lt;Description of contained building block (black boxes)>_
 
-Important Interfaces  
+**Important Interfaces**  
 _&lt;Description of important interfaces>_
 
 ### &lt;Name black box 1>

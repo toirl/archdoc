@@ -1,0 +1,14 @@
+@startuml
+
+title Whitebox Overall System
+
+component "SYS" <<system>> as SYS {
+    port "Interface" as I 
+    component "Component 1" <<subsystem>> as C1
+    component "Component 2" <<subsystem>> as C2
+
+    I --> C1
+    C1 --> C2: call
+}
+
+@enduml
