@@ -1,4 +1,5 @@
-# Serve command to start a simple HTTP server
+.PHONY: serve
+
 serve:
 	@echo "Starting Docs server ..."
-	@uv run mkdocs serve -f ./docs/mkdocs.yml
+	@uv run mkdocs serve

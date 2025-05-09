@@ -1,0 +1,11 @@
+@startuml
+
+component "System" as SYS #orange
+
+component "Service 1" <<service>> as S1
+component "Service 2" <<service>> as S2
+
+S1 <-- SYS: Data
+S2 --> SYS: Data 
+
+@enduml
