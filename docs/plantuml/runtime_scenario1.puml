@@ -1,0 +1,19 @@
+@startuml
+title Runtime Scenario 1 
+
+participant "Foo" as F
+participant "Bar" as B
+participant "Baz" as Z
+
+F --> B: Request
+activate F
+activate B
+B --> Z: Request 
+activate Z
+B <-- Z: Answer
+deactivate Z
+F <-- B: Answer
+deactivate B
+deactivate F
+
+@enduml
