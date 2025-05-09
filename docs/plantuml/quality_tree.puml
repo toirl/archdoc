@@ -1,0 +1,42 @@
+@startmindmap
+* Software Quality according to ISO 25010
+** Functional Suitability
+*** Completeness
+*** Correctness
+*** Appropriateness
+** Performance Efficiency
+*** Response Time
+*** Resource Utilization
+*** Capacity
+** Compatibility
+*** Coexistence
+*** Interoperability
+** Usability
+*** Optimal Recognizability
+*** Learnability
+*** Operability
+*** Protection against Misuse
+*** Aesthetic User Interface
+*** Easy Access
+-- Reliability
+--- Maturity
+--- Availability
+--- Fault Tolerance
+--- Recoverability
+-- Security
+--- Confidentiality
+--- Integrity
+--- Authenticity
+--- Accountability
+-- Maintainability
+--- Modularity
+--- Reusability
+--- Analyzability
+--- Modifiability
+--- Testability
+-- Portability
+--- Adaptability
+--- Installability
+--- Replaceability
+@endmindmap
+
