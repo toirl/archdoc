@@ -2,7 +2,7 @@
 
 ## Infrastructure Level 1
 
-**_&lt;Overview Diagram>_**
+![Infrastructure Level 1](generated/deployment_level1.png){#fig:deployment_level1}
 
 Motivation  
 _&lt;explanation in text form>_

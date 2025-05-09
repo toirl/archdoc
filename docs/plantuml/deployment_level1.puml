@@ -1,0 +1,19 @@
+@startuml
+
+title Deployment Level 1 
+
+frame "SYS" {
+  node "Node 1" <<device>> { 
+    node "Node 2" <<os>> {
+      node "Node 3" <<runtime>> {
+        node "Node 4" <<container>> as X {
+          artifact "Artifact 1"
+        }
+        node "Node 5" <<container>> as Y {
+          artifact "Artifact 2"
+        }
+      }
+    }
+  }
+}
+@enduml
