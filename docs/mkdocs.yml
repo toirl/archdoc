@@ -1,4 +1,5 @@
 site_name: Archdoc
+theme: material
 nav:
   - Introduction & Goals: index.md
   - Constraints: architecture_constraints.md
